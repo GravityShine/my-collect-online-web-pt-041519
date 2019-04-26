@@ -1,4 +1,4 @@
 def my_collect (array)
-array = []
-
+array1 = []
+array2 = []
 end
